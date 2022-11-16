@@ -1,0 +1,2 @@
+This file contains the code for an ARP Spoofing scanner and a SYN Flood scanner as per the details outlined in HW4. It utilizes scapy to parse the .pcap files
+that were obtained from Wireshark.
